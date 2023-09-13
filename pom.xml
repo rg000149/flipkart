@@ -5,7 +5,7 @@
   <groupId>com.flipkart</groupId>
   <artifactId>flipkart</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-RELEASE-1</version>
+  <version>1.0-RELEASE</version>
   
   <build>
   <plugins>
